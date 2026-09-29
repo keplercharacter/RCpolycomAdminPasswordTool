@@ -6,7 +6,8 @@ Setup Steps
 
     Create the API app — 
     --developers.ringcentral.com > Console > Create App > "REST API App", 
-    --auth type JWT auth flow, --app type Server/No UI. 
+    --auth type JWT auth flow, 
+    --app type Server/No UI. 
     --Add permission 'Read Accounts'. 
     --Note the API URL, Client ID and Client Secret someplace safe.
    
